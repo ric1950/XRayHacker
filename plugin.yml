@@ -1,0 +1,9 @@
+name: XRayHacker
+main: me.ric.xrayhacker.XRayHacker
+version: 3.3.0
+description: >
+                    A plugin to counter XRay hacking
+commands:
+  xrh:
+    description: 'Command for listing players mining diamond ore'
+    usage: '/xrh help    for list of commands'
