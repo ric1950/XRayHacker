@@ -1,0 +1,6 @@
+Plugin to give admins and Moderators real time alerts of players using XRay Hacking to mine for diamonds, lapis or gold.
+
+When a player has mined a configurable multiple of ore a message is sent to all Admins and Mods online.
+
+Using the commmand /xrh list [number] a list of players who have mined more than "number" ore blocks since the last server restart is returned as a message.
+
